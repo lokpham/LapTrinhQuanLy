@@ -1,0 +1,12 @@
+D:\QuanLy\LapTrinhQuanLy\FlashForm\FlashForm\bin\Debug\FlashForm.exe.config
+D:\QuanLy\LapTrinhQuanLy\FlashForm\FlashForm\bin\Debug\FlashForm.exe
+D:\QuanLy\LapTrinhQuanLy\FlashForm\FlashForm\bin\Debug\FlashForm.pdb
+D:\QuanLy\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.csproj.AssemblyReference.cache
+D:\QuanLy\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.DemThoiGian.resources
+D:\QuanLy\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.Form1.resources
+D:\QuanLy\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.Properties.Resources.resources
+D:\QuanLy\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.csproj.GenerateResource.cache
+D:\QuanLy\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.csproj.CoreCompileInputs.cache
+D:\QuanLy\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.exe
+D:\QuanLy\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.pdb
+D:\QuanLy\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.ProgressBar.resources
