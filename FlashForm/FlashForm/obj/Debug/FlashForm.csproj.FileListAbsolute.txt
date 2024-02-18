@@ -22,3 +22,5 @@ D:\trentruong\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashF
 D:\trentruong\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.csproj.CoreCompileInputs.cache
 D:\trentruong\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.exe
 D:\trentruong\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.pdb
+D:\trentruong\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.FlashForm.resources
+D:\trentruong\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.MainForm.resources

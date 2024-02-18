@@ -21,37 +21,22 @@ namespace FlashForm
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            
+
+            progressBar1.Increment(1);
+            if(progressBar1.Value == 100)
+            {
+                timer1.Stop();
+            }
         }
 
      
-
+        List<int> ints = new List<int>();   
         private void button1_Click(object sender, EventArgs e)
         {
-            backgroundWorker1.RunWorkerAsync();
-          
+            timer1.Start();
+           
         }
 
-        private void backgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
-        {
 
-            for(int i  = 0; i < 100; i++)
-            {
-                backgroundWorker1.ReportProgress(i,i);
-            }
-        }
-
-        private void backgroundWorker1_ProgressChanged(object sender, ProgressChangedEventArgs e)
-        {
-            progressBar1.Value = e.ProgressPercentage;
-        }
-
-        private void backgroundWorker1_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
-        {
-            if (textBoxUsername.Text == "admin" && textBoxPassword.Text == "123")
-            {
-                MessageBox.Show("đăng nhập thành công");
-            }
-        }
     }
 }

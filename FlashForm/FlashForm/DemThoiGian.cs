@@ -43,5 +43,10 @@ namespace FlashForm
             label1.Text = "00:00";
             timer1.Stop();
         }
+
+        private void DemThoiGian_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

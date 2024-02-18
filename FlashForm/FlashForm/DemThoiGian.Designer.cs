@@ -94,6 +94,7 @@
             this.Controls.Add(this.btnDem);
             this.Name = "DemThoiGian";
             this.Text = "DemThoiGian";
+            this.Load += new System.EventHandler(this.DemThoiGian_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

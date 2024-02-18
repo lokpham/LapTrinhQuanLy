@@ -3,15 +3,7 @@
   "WorkspaceRootPath": "D:\\trentruong\\laptrinhquanly\\LapTrinhQuanLy\\FlashForm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD406BFD-7B62-4388-9ABF-9DB030E7FAAA}|FlashForm\\FlashForm.csproj|d:\\trentruong\\laptrinhquanly\\laptrinhquanly\\flashform\\flashform\\progressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD406BFD-7B62-4388-9ABF-9DB030E7FAAA}|FlashForm\\FlashForm.csproj|solutionrelative:flashform\\progressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD406BFD-7B62-4388-9ABF-9DB030E7FAAA}|FlashForm\\FlashForm.csproj|d:\\trentruong\\laptrinhquanly\\laptrinhquanly\\flashform\\flashform\\demthoigian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD406BFD-7B62-4388-9ABF-9DB030E7FAAA}|FlashForm\\FlashForm.csproj|solutionrelative:flashform\\demthoigian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD406BFD-7B62-4388-9ABF-9DB030E7FAAA}|FlashForm\\FlashForm.csproj|D:\\trentruong\\laptrinhquanly\\LapTrinhQuanLy\\FlashForm\\flashform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD406BFD-7B62-4388-9ABF-9DB030E7FAAA}|FlashForm\\FlashForm.csproj|d:\\trentruong\\laptrinhquanly\\laptrinhquanly\\flashform\\flashform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD406BFD-7B62-4388-9ABF-9DB030E7FAAA}|FlashForm\\FlashForm.csproj|solutionrelative:flashform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,7 +11,31 @@
       "RelativeMoniker": "D:0:0:{CD406BFD-7B62-4388-9ABF-9DB030E7FAAA}|FlashForm\\FlashForm.csproj|solutionrelative:flashform\\progressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD406BFD-7B62-4388-9ABF-9DB030E7FAAA}|FlashForm\\FlashForm.csproj|d:\\trentruong\\laptrinhquanly\\laptrinhquanly\\flashform\\flashform\\demthoigian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CD406BFD-7B62-4388-9ABF-9DB030E7FAAA}|FlashForm\\FlashForm.csproj|D:\\trentruong\\laptrinhquanly\\LapTrinhQuanLy\\FlashForm\\flashform\\demthoigian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD406BFD-7B62-4388-9ABF-9DB030E7FAAA}|FlashForm\\FlashForm.csproj|solutionrelative:flashform\\demthoigian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD406BFD-7B62-4388-9ABF-9DB030E7FAAA}|FlashForm\\FlashForm.csproj|D:\\trentruong\\laptrinhquanly\\LapTrinhQuanLy\\FlashForm\\flashform\\progressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD406BFD-7B62-4388-9ABF-9DB030E7FAAA}|FlashForm\\FlashForm.csproj|solutionrelative:flashform\\progressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD406BFD-7B62-4388-9ABF-9DB030E7FAAA}|FlashForm\\FlashForm.csproj|D:\\trentruong\\laptrinhquanly\\LapTrinhQuanLy\\FlashForm\\flashform\\flashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD406BFD-7B62-4388-9ABF-9DB030E7FAAA}|FlashForm\\FlashForm.csproj|solutionrelative:flashform\\flashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD406BFD-7B62-4388-9ABF-9DB030E7FAAA}|FlashForm\\FlashForm.csproj|D:\\trentruong\\laptrinhquanly\\LapTrinhQuanLy\\FlashForm\\flashform\\flashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD406BFD-7B62-4388-9ABF-9DB030E7FAAA}|FlashForm\\FlashForm.csproj|solutionrelative:flashform\\flashform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD406BFD-7B62-4388-9ABF-9DB030E7FAAA}|FlashForm\\FlashForm.csproj|D:\\trentruong\\laptrinhquanly\\LapTrinhQuanLy\\FlashForm\\flashform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD406BFD-7B62-4388-9ABF-9DB030E7FAAA}|FlashForm\\FlashForm.csproj|solutionrelative:flashform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD406BFD-7B62-4388-9ABF-9DB030E7FAAA}|FlashForm\\FlashForm.csproj|D:\\trentruong\\laptrinhquanly\\LapTrinhQuanLy\\FlashForm\\flashform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD406BFD-7B62-4388-9ABF-9DB030E7FAAA}|FlashForm\\FlashForm.csproj|solutionrelative:flashform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD406BFD-7B62-4388-9ABF-9DB030E7FAAA}|FlashForm\\FlashForm.csproj|D:\\trentruong\\laptrinhquanly\\LapTrinhQuanLy\\FlashForm\\flashform\\demthoigian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CD406BFD-7B62-4388-9ABF-9DB030E7FAAA}|FlashForm\\FlashForm.csproj|solutionrelative:flashform\\demthoigian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -30,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "DemThoiGian.cs [Design]",
               "DocumentMoniker": "D:\\trentruong\\laptrinhquanly\\LapTrinhQuanLy\\FlashForm\\FlashForm\\DemThoiGian.cs",
               "RelativeDocumentMoniker": "FlashForm\\DemThoiGian.cs",
@@ -47,13 +63,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ProgressBar.cs",
               "DocumentMoniker": "D:\\trentruong\\laptrinhquanly\\LapTrinhQuanLy\\FlashForm\\FlashForm\\ProgressBar.cs",
               "RelativeDocumentMoniker": "FlashForm\\ProgressBar.cs",
               "ToolTip": "D:\\trentruong\\laptrinhquanly\\LapTrinhQuanLy\\FlashForm\\FlashForm\\ProgressBar.cs",
               "RelativeToolTip": "FlashForm\\ProgressBar.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAAAB8AAAAKAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAtwCQAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-18T05:36:49.636Z",
               "IsPinned": true,
@@ -61,33 +77,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DemThoiGian.cs",
               "DocumentMoniker": "D:\\trentruong\\laptrinhquanly\\LapTrinhQuanLy\\FlashForm\\FlashForm\\DemThoiGian.cs",
               "RelativeDocumentMoniker": "FlashForm\\DemThoiGian.cs",
               "ToolTip": "D:\\trentruong\\laptrinhquanly\\LapTrinhQuanLy\\FlashForm\\FlashForm\\DemThoiGian.cs",
               "RelativeToolTip": "FlashForm\\DemThoiGian.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAACsAAAAaAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAD4vzAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-18T06:05:17.77Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\trentruong\\laptrinhquanly\\LapTrinhQuanLy\\FlashForm\\FlashForm\\Program.cs",
-              "RelativeDocumentMoniker": "FlashForm\\Program.cs",
-              "ToolTip": "D:\\trentruong\\laptrinhquanly\\LapTrinhQuanLy\\FlashForm\\FlashForm\\Program.cs",
-              "RelativeToolTip": "FlashForm\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-18T05:36:49.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ProgressBar.cs [Design]",
               "DocumentMoniker": "D:\\trentruong\\laptrinhquanly\\LapTrinhQuanLy\\FlashForm\\FlashForm\\ProgressBar.cs",
               "RelativeDocumentMoniker": "FlashForm\\ProgressBar.cs",
@@ -95,6 +99,70 @@
               "RelativeToolTip": "FlashForm\\ProgressBar.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-18T05:36:49.358Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\trentruong\\laptrinhquanly\\LapTrinhQuanLy\\FlashForm\\FlashForm\\Program.cs",
+              "RelativeDocumentMoniker": "FlashForm\\Program.cs",
+              "ToolTip": "D:\\trentruong\\laptrinhquanly\\LapTrinhQuanLy\\FlashForm\\FlashForm\\Program.cs",
+              "RelativeToolTip": "FlashForm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T05:36:49.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlashForm.cs",
+              "DocumentMoniker": "D:\\trentruong\\laptrinhquanly\\LapTrinhQuanLy\\FlashForm\\FlashForm\\FlashForm.cs",
+              "RelativeDocumentMoniker": "FlashForm\\FlashForm.cs",
+              "ToolTip": "D:\\trentruong\\laptrinhquanly\\LapTrinhQuanLy\\FlashForm\\FlashForm\\FlashForm.cs",
+              "RelativeToolTip": "FlashForm\\FlashForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T12:14:27.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FlashForm.cs [Design]",
+              "DocumentMoniker": "D:\\trentruong\\laptrinhquanly\\LapTrinhQuanLy\\FlashForm\\FlashForm\\FlashForm.cs",
+              "RelativeDocumentMoniker": "FlashForm\\FlashForm.cs",
+              "ToolTip": "D:\\trentruong\\laptrinhquanly\\LapTrinhQuanLy\\FlashForm\\FlashForm\\FlashForm.cs [Design]",
+              "RelativeToolTip": "FlashForm\\FlashForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T12:12:53.4Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\trentruong\\laptrinhquanly\\LapTrinhQuanLy\\FlashForm\\FlashForm\\MainForm.cs",
+              "RelativeDocumentMoniker": "FlashForm\\MainForm.cs",
+              "ToolTip": "D:\\trentruong\\laptrinhquanly\\LapTrinhQuanLy\\FlashForm\\FlashForm\\MainForm.cs",
+              "RelativeToolTip": "FlashForm\\MainForm.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAD4vxUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T12:24:43.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\trentruong\\laptrinhquanly\\LapTrinhQuanLy\\FlashForm\\FlashForm\\MainForm.cs",
+              "RelativeDocumentMoniker": "FlashForm\\MainForm.cs",
+              "ToolTip": "D:\\trentruong\\laptrinhquanly\\LapTrinhQuanLy\\FlashForm\\FlashForm\\MainForm.cs [Design]",
+              "RelativeToolTip": "FlashForm\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T12:23:49.338Z",
               "EditorCaption": " [Design]"
             }
           ]
