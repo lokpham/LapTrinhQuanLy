@@ -17,27 +17,41 @@ namespace FlashForm
         {
             InitializeComponent();
         }
-        List<int> list = new List<int>();
-        int count;
-        private void button1_Click(object sender, EventArgs e)
-        {
-            int n;
-            timer1.Start();
-            n = (int)numericUpDown1.Value;
-            Random r = new Random();
-           
-            for(int i = 0; i < n; i++)
-            {
-                int so = r.Next(0,100);
-                list.Add(so);
-            }
-            timer1.Stop();
-            MessageBox.Show("Phát sinh thành công trong khoảng "+count+"");
-        }
+       
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            count++;
+            
+        }
+
+     
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            backgroundWorker1.RunWorkerAsync();
+          
+        }
+
+        private void backgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
+        {
+
+            for(int i  = 0; i < 100; i++)
+            {
+                backgroundWorker1.ReportProgress(i,i);
+            }
+        }
+
+        private void backgroundWorker1_ProgressChanged(object sender, ProgressChangedEventArgs e)
+        {
+            progressBar1.Value = e.ProgressPercentage;
+        }
+
+        private void backgroundWorker1_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
+        {
+            if (textBoxUsername.Text == "admin" && textBoxPassword.Text == "123")
+            {
+                MessageBox.Show("đăng nhập thành công");
+            }
         }
     }
 }
