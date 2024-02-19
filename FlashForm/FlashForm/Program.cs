@@ -16,7 +16,7 @@ namespace FlashForm
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ProgressBar());
+            Application.Run(new DemThoiGian());
         }
     }
 }

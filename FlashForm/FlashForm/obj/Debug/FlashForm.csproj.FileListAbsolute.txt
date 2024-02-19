@@ -10,3 +10,15 @@ D:\QuanLy\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.csproj.CoreComp
 D:\QuanLy\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.exe
 D:\QuanLy\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.pdb
 D:\QuanLy\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.ProgressBar.resources
+D:\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\bin\Debug\FlashForm.exe.config
+D:\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\bin\Debug\FlashForm.exe
+D:\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\bin\Debug\FlashForm.pdb
+D:\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.csproj.AssemblyReference.cache
+D:\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.DemThoiGian.resources
+D:\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.Form1.resources
+D:\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.ProgressBar.resources
+D:\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.Properties.Resources.resources
+D:\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.csproj.GenerateResource.cache
+D:\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.csproj.CoreCompileInputs.cache
+D:\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.exe
+D:\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.pdb
