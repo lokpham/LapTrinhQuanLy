@@ -10,6 +10,7 @@ D:\QuanLy\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.csproj.CoreComp
 D:\QuanLy\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.exe
 D:\QuanLy\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.pdb
 D:\QuanLy\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.ProgressBar.resources
+<<<<<<< HEAD
 D:\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\bin\Debug\FlashForm.exe.config
 D:\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\bin\Debug\FlashForm.exe
 D:\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\bin\Debug\FlashForm.pdb
@@ -22,3 +23,19 @@ D:\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.csproj.
 D:\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.csproj.CoreCompileInputs.cache
 D:\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.exe
 D:\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.pdb
+=======
+D:\trentruong\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\bin\Debug\FlashForm.exe.config
+D:\trentruong\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\bin\Debug\FlashForm.exe
+D:\trentruong\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\bin\Debug\FlashForm.pdb
+D:\trentruong\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.csproj.AssemblyReference.cache
+D:\trentruong\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.DemThoiGian.resources
+D:\trentruong\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.Form1.resources
+D:\trentruong\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.ProgressBar.resources
+D:\trentruong\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.Properties.Resources.resources
+D:\trentruong\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.csproj.GenerateResource.cache
+D:\trentruong\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.csproj.CoreCompileInputs.cache
+D:\trentruong\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.exe
+D:\trentruong\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.pdb
+D:\trentruong\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.FlashForm.resources
+D:\trentruong\laptrinhquanly\LapTrinhQuanLy\FlashForm\FlashForm\obj\Debug\FlashForm.MainForm.resources
+>>>>>>> d71a12105792c8c32547ae3c03ebf96488903693

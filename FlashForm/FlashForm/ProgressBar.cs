@@ -17,27 +17,26 @@ namespace FlashForm
         {
             InitializeComponent();
         }
-        List<int> list = new List<int>();
-        int count;
-        private void button1_Click(object sender, EventArgs e)
-        {
-            int n;
-            timer1.Start();
-            n = (int)numericUpDown1.Value;
-            Random r = new Random();
-           
-            for(int i = 0; i < n; i++)
-            {
-                int so = r.Next(0,100);
-                list.Add(so);
-            }
-            timer1.Stop();
-            MessageBox.Show("Phát sinh thành công trong khoảng "+count+"");
-        }
+       
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            count++;
+
+            progressBar1.Increment(1);
+            if(progressBar1.Value == 100)
+            {
+                timer1.Stop();
+            }
         }
+
+     
+        List<int> ints = new List<int>();   
+        private void button1_Click(object sender, EventArgs e)
+        {
+            timer1.Start();
+           
+        }
+
+
     }
 }
